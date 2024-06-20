@@ -1,0 +1,1 @@
+import{d as o,c as a,o as c,p as _,a as p,b as e,_ as d}from"./index-D_LOU0Xb.js";const t=s=>(_("data-v-3dbfe60a"),s=s(),p(),s),n={class:"greetings"},r=t(()=>e("h1",{class:"green"},"资产提取",-1)),i=t(()=>e("h3",null,"ToDo",-1)),h=[r,i],l=o({__name:"AssetExtract",props:{msg:{}},setup(s){return(f,m)=>(c(),a("div",n,h))}}),x=d(l,[["__scopeId","data-v-3dbfe60a"]]);export{x as default};
